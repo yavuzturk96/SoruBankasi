@@ -1,0 +1,83 @@
+C:\Users\YAVUZ\Desktop\C# Form Denemeleri\SoruBankası\SoruBankası\bin\Debug\SoruBankası.exe.config
+C:\Users\YAVUZ\Desktop\C# Form Denemeleri\SoruBankası\SoruBankası\bin\Debug\SoruBankası.exe
+C:\Users\YAVUZ\Desktop\C# Form Denemeleri\SoruBankası\SoruBankası\bin\Debug\SoruBankası.pdb
+C:\Users\YAVUZ\Desktop\C# Form Denemeleri\SoruBankası\SoruBankası\obj\Debug\SoruBankası.csprojResolveAssemblyReference.cache
+C:\Users\YAVUZ\Desktop\C# Form Denemeleri\SoruBankası\SoruBankası\obj\Debug\SoruBankası.Form1.resources
+C:\Users\YAVUZ\Desktop\C# Form Denemeleri\SoruBankası\SoruBankası\obj\Debug\SoruBankası.Properties.Resources.resources
+C:\Users\YAVUZ\Desktop\C# Form Denemeleri\SoruBankası\SoruBankası\obj\Debug\SoruBankası.csproj.GenerateResource.Cache
+C:\Users\YAVUZ\Desktop\C# Form Denemeleri\SoruBankası\SoruBankası\obj\Debug\SoruBankası.exe
+C:\Users\YAVUZ\Desktop\C# Form Denemeleri\SoruBankası\SoruBankası\obj\Debug\SoruBankası.pdb
+C:\Users\YAVUZ\Desktop\C# Form Denemeleri\SoruBankası\SoruBankası\obj\Debug\SoruBankası.Form2.resources
+C:\Users\YAVUZ\Desktop\C# Form Denemeleri\SoruBankası\SoruBankası\obj\Debug\SoruBankası.Soru.resources
+C:\Users\YAVUZ\Desktop\C# Form Denemeleri\SoruBankası\SoruBankası\obj\Debug\SoruBankası.Konu.resources
+C:\Users\YAVUZ\Desktop\C# Form Denemeleri\SoruBankası\SoruBankası\obj\Debug\SoruBankası.Bolum.resources
+C:\Users\YAVUZ\Desktop\C# Form Denemeleri\SoruBankası\SoruBankası\obj\Debug\SoruBankası.Ders.resources
+C:\Users\YAVUZ\Desktop\C# Form Denemeleri\SoruBankası\SoruBankası\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\YAVUZ\Desktop\C# Form Denemeleri\SoruBankası\SoruBankası\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\YAVUZ\Desktop\C# Form Denemeleri\SoruBankası\SoruBankası\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\YAVUZ\Desktop\C# Form Denemeleri\SoruBankası\SoruBankası\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\YAVUZ\Desktop\C# Form Denemeleri\SoruBankası\SoruBankası\obj\Debug\SoruBankası.csproj.ResolveComReference.cache
+C:\Users\YAVUZ\Desktop\C# Form Denemeleri\SoruBankası\SoruBankası\obj\Debug\SoruBankası.Cıktı.resources
+C:\Users\YAVUZ\Desktop\C# Form Denemeleri\SoruBankası\SoruBankası\bin\Debug\itextsharp.dll
+C:\Users\YAVUZ\Desktop\C# Form Denemeleri\SoruBankası\SoruBankası\obj\Debug\SoruBankası.Pdf.resources
+C:\Users\YAVUZ\Desktop\C# Form Denemeleri\SoruBankası\SoruBankası\obj\Debug\SoruBankası.ListView.resources
+C:\Users\YAVUZ\Desktop\C# Form Denemeleri\SoruBankası\SoruBankası\bin\Debug\itextsharp.xtra.dll
+C:\Users\YAVUZ\Desktop\C# Form Denemeleri\SoruBankası\SoruBankası\bin\Debug\itextsharp.pdfa.dll
+C:\Users\YAVUZ\Desktop\C# Form Denemeleri\SoruBankası\SoruBankası\bin\Debug\itextsharp.xml
+C:\Users\YAVUZ\Desktop\C# Form Denemeleri\SoruBankası\SoruBankası\obj\Debug\SoruBankası.CevapAnahtari.resources
+C:\Users\YAVUZ\Desktop\Bitirme\SoruBankası\SoruBankası\bin\Debug\SoruBankası.exe.config
+C:\Users\YAVUZ\Desktop\Bitirme\SoruBankası\SoruBankası\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\YAVUZ\Desktop\Bitirme\SoruBankası\SoruBankası\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\YAVUZ\Desktop\Bitirme\SoruBankası\SoruBankası\obj\Debug\SoruBankası.csproj.ResolveComReference.cache
+C:\Users\YAVUZ\Desktop\Bitirme\SoruBankası\SoruBankası\obj\Debug\SoruBankası.exe
+C:\Users\YAVUZ\Desktop\Bitirme\SoruBankası\SoruBankası\obj\Debug\SoruBankası.pdb
+C:\Users\YAVUZ\Desktop\Bitirme\SoruBankası\SoruBankası\bin\Debug\SoruBankası.exe
+C:\Users\YAVUZ\Desktop\Bitirme\SoruBankası\SoruBankası\bin\Debug\SoruBankası.pdb
+C:\Users\YAVUZ\Desktop\Bitirme\SoruBankası\SoruBankası\bin\Debug\itextsharp.dll
+C:\Users\YAVUZ\Desktop\Bitirme\SoruBankası\SoruBankası\bin\Debug\itextsharp.pdfa.dll
+C:\Users\YAVUZ\Desktop\Bitirme\SoruBankası\SoruBankası\bin\Debug\itextsharp.xtra.dll
+C:\Users\YAVUZ\Desktop\Bitirme\SoruBankası\SoruBankası\bin\Debug\itextsharp.xml
+C:\Users\YAVUZ\Desktop\Bitirme\SoruBankası\SoruBankası\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\YAVUZ\Desktop\Bitirme\SoruBankası\SoruBankası\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\YAVUZ\Desktop\Bitirme\SoruBankası\SoruBankası\obj\Debug\SoruBankası.csprojResolveAssemblyReference.cache
+C:\Users\YAVUZ\Desktop\Bitirme\SoruBankası\SoruBankası\obj\Debug\SoruBankası.Bolum.resources
+C:\Users\YAVUZ\Desktop\Bitirme\SoruBankası\SoruBankası\obj\Debug\SoruBankası.CevapAnahtari.resources
+C:\Users\YAVUZ\Desktop\Bitirme\SoruBankası\SoruBankası\obj\Debug\SoruBankası.Cıktı.resources
+C:\Users\YAVUZ\Desktop\Bitirme\SoruBankası\SoruBankası\obj\Debug\SoruBankası.Ders.resources
+C:\Users\YAVUZ\Desktop\Bitirme\SoruBankası\SoruBankası\obj\Debug\SoruBankası.Form1.resources
+C:\Users\YAVUZ\Desktop\Bitirme\SoruBankası\SoruBankası\obj\Debug\SoruBankası.Form2.resources
+C:\Users\YAVUZ\Desktop\Bitirme\SoruBankası\SoruBankası\obj\Debug\SoruBankası.Konu.resources
+C:\Users\YAVUZ\Desktop\Bitirme\SoruBankası\SoruBankası\obj\Debug\SoruBankası.ListView.resources
+C:\Users\YAVUZ\Desktop\Bitirme\SoruBankası\SoruBankası\obj\Debug\SoruBankası.Pdf.resources
+C:\Users\YAVUZ\Desktop\Bitirme\SoruBankası\SoruBankası\obj\Debug\SoruBankası.Properties.Resources.resources
+C:\Users\YAVUZ\Desktop\Bitirme\SoruBankası\SoruBankası\obj\Debug\SoruBankası.Soru.resources
+C:\Users\YAVUZ\Desktop\Bitirme\SoruBankası\SoruBankası\obj\Debug\SoruBankası.csproj.GenerateResource.Cache
+C:\Users\YAVUZ\Desktop\Projeler\Bitirme\SoruBankası\SoruBankası\bin\Debug\SoruBankası.exe.config
+C:\Users\YAVUZ\Desktop\Projeler\Bitirme\SoruBankası\SoruBankası\bin\Debug\SoruBankası.exe
+C:\Users\YAVUZ\Desktop\Projeler\Bitirme\SoruBankası\SoruBankası\bin\Debug\SoruBankası.pdb
+C:\Users\YAVUZ\Desktop\Projeler\Bitirme\SoruBankası\SoruBankası\bin\Debug\itextsharp.dll
+C:\Users\YAVUZ\Desktop\Projeler\Bitirme\SoruBankası\SoruBankası\bin\Debug\itextsharp.pdfa.dll
+C:\Users\YAVUZ\Desktop\Projeler\Bitirme\SoruBankası\SoruBankası\bin\Debug\itextsharp.xtra.dll
+C:\Users\YAVUZ\Desktop\Projeler\Bitirme\SoruBankası\SoruBankası\bin\Debug\itextsharp.xml
+C:\Users\YAVUZ\Desktop\Projeler\Bitirme\SoruBankası\SoruBankası\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\YAVUZ\Desktop\Projeler\Bitirme\SoruBankası\SoruBankası\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\YAVUZ\Desktop\Projeler\Bitirme\SoruBankası\SoruBankası\obj\Debug\SoruBankası.csprojAssemblyReference.cache
+C:\Users\YAVUZ\Desktop\Projeler\Bitirme\SoruBankası\SoruBankası\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\YAVUZ\Desktop\Projeler\Bitirme\SoruBankası\SoruBankası\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\YAVUZ\Desktop\Projeler\Bitirme\SoruBankası\SoruBankası\obj\Debug\SoruBankası.csproj.ResolveComReference.cache
+C:\Users\YAVUZ\Desktop\Projeler\Bitirme\SoruBankası\SoruBankası\obj\Debug\SoruBankası.Bolum.resources
+C:\Users\YAVUZ\Desktop\Projeler\Bitirme\SoruBankası\SoruBankası\obj\Debug\SoruBankası.CevapAnahtari.resources
+C:\Users\YAVUZ\Desktop\Projeler\Bitirme\SoruBankası\SoruBankası\obj\Debug\SoruBankası.Cıktı.resources
+C:\Users\YAVUZ\Desktop\Projeler\Bitirme\SoruBankası\SoruBankası\obj\Debug\SoruBankası.Ders.resources
+C:\Users\YAVUZ\Desktop\Projeler\Bitirme\SoruBankası\SoruBankası\obj\Debug\SoruBankası.Form1.resources
+C:\Users\YAVUZ\Desktop\Projeler\Bitirme\SoruBankası\SoruBankası\obj\Debug\SoruBankası.Form2.resources
+C:\Users\YAVUZ\Desktop\Projeler\Bitirme\SoruBankası\SoruBankası\obj\Debug\SoruBankası.Konu.resources
+C:\Users\YAVUZ\Desktop\Projeler\Bitirme\SoruBankası\SoruBankası\obj\Debug\SoruBankası.ListView.resources
+C:\Users\YAVUZ\Desktop\Projeler\Bitirme\SoruBankası\SoruBankası\obj\Debug\SoruBankası.Pdf.resources
+C:\Users\YAVUZ\Desktop\Projeler\Bitirme\SoruBankası\SoruBankası\obj\Debug\SoruBankası.Properties.Resources.resources
+C:\Users\YAVUZ\Desktop\Projeler\Bitirme\SoruBankası\SoruBankası\obj\Debug\SoruBankası.Soru.resources
+C:\Users\YAVUZ\Desktop\Projeler\Bitirme\SoruBankası\SoruBankası\obj\Debug\SoruBankası.csproj.GenerateResource.cache
+C:\Users\YAVUZ\Desktop\Projeler\Bitirme\SoruBankası\SoruBankası\obj\Debug\SoruBankası.csproj.CoreCompileInputs.cache
+C:\Users\YAVUZ\Desktop\Projeler\Bitirme\SoruBankası\SoruBankası\obj\Debug\SoruBankası.csproj.CopyComplete
+C:\Users\YAVUZ\Desktop\Projeler\Bitirme\SoruBankası\SoruBankası\obj\Debug\SoruBankası.exe
+C:\Users\YAVUZ\Desktop\Projeler\Bitirme\SoruBankası\SoruBankası\obj\Debug\SoruBankası.pdb
